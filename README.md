@@ -1,7 +1,4 @@
 # Awaye
 
-A new Flutter project.
+AfinalPorject for my Weuterbildung
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
