@@ -120,18 +120,6 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                                 width: 2.0,
                               ),
                             ),
-                            child: Padding(
-                              padding: const EdgeInsets.all(2.0),
-                              child: ClipRRect(
-                                borderRadius: BorderRadius.circular(50.0),
-                                child: Image.asset(
-                                  'assets/images/images?q=tbn:ANd9GcQgfEH6zN6b6RybH-S0vRq2FDE2lgA0G2dEvg&usqp=CAU',
-                                  width: 60.0,
-                                  height: 60.0,
-                                  fit: BoxFit.cover,
-                                ),
-                              ),
-                            ),
                           ),
                           Padding(
                             padding: const EdgeInsetsDirectional.fromSTEB(
