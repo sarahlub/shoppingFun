@@ -1,4 +1,4 @@
 # Awaye
 
-AfinalPorject for my Weuterbildung
+A finalPorject for my Weiterbildung
 
